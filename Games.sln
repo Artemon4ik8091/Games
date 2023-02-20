@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{1B5C3AD6-1CA1-4152-A1BB-B9A9B80BDD59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesDll", "GamesDll\GamesDll.csproj", "{099D2534-5C0A-4DAC-805D-59CDC7E11DF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesContext", "GamesContext\GamesContext.csproj", "{E9360766-30DF-4488-807C-1B4634C8D099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5C3AD6-1CA1-4152-A1BB-B9A9B80BDD59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5C3AD6-1CA1-4152-A1BB-B9A9B80BDD59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5C3AD6-1CA1-4152-A1BB-B9A9B80BDD59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5C3AD6-1CA1-4152-A1BB-B9A9B80BDD59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099D2534-5C0A-4DAC-805D-59CDC7E11DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099D2534-5C0A-4DAC-805D-59CDC7E11DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099D2534-5C0A-4DAC-805D-59CDC7E11DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099D2534-5C0A-4DAC-805D-59CDC7E11DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9360766-30DF-4488-807C-1B4634C8D099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9360766-30DF-4488-807C-1B4634C8D099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9360766-30DF-4488-807C-1B4634C8D099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9360766-30DF-4488-807C-1B4634C8D099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07618A8-BDD4-4B2E-8F38-F0E88174601D}
+	EndGlobalSection
+EndGlobal
